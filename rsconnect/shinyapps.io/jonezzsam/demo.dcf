@@ -1,0 +1,12 @@
+name: demo
+title: demo
+username:
+account: jonezzsam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4056026
+bundleId: 4538118
+url: https://jonezzsam.shinyapps.io/demo/
+when: 1619754961.70965
+asMultiple: FALSE
+asStatic: FALSE
